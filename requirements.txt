@@ -1,7 +1,6 @@
-﻿Flask
-gunicorn
-tensorflow
-librosa
-numpy
-scipy
-soundfile
+﻿Flask==3.0.3
+gunicorn==21.2.0
+tensorflow-cpu==2.15.0
+librosa==0.10.1
+numpy==1.26.4
+scikit-learn==1.4.1.post1
